@@ -549,9 +549,9 @@ Duplicated with Q33.
 #### Q69. Which page orientation should you select to accommodate a wide chart or table?
 
 - [ ] Tall
-- [x] Portrait
+- [ ] Portrait
 - [ ] Wide
-- [ ] Landscape
+- [x] Landscape
 
 #### Q70. What is the first step in sharing a document that is currently saved on your local hard drive?
 
@@ -663,3 +663,35 @@ Duplicated with Q50.
 - [ ] Create a macro that will change all fonts to Arial 11.5 point.
 - [ ] In a new, blank document, from the Font dialog box, make your changes and set as default for All documents based on the Normal template.
 - [ ] In a new, blank document, make your font changes and then save your document as a template.
+
+Below from 2022
+
+#### Q85. You introduced a change to Design tab, and all the fonts and formatting changed. What did you change?
+
+- [x] Style
+- [ ] Theme
+- [ ] Font
+- [ ] Effects
+
+#### Q86. You are writing a company newsletter. The first page has three columns, the second will need two columns, how do you change that?
+
+- [x] Continuous section breaks
+- [ ] Page break
+- [ ] Column break
+- [ ] Text break
+
+#### Q87. You have inserted a picture into your word document.  How to make the document accessible to people with visual impairments?
+
+- [x] Adding alternative text
+- [ ] Adding Caption
+- [ ] Adding Footnote
+- [ ] Adding Citation
+
+#### Q88. You start a new text section at the current cursor position without adding a new page. Which type of section break do u use?
+
+- [ ] Next page
+- [x] Continous
+- [ ] Odd page
+- [ ] Even page
+
+#### Q 89. using the compare function in word 
